@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Mars
 - 📫 How to reach me is just a "**don't**"
-- 😄 Pronouns: actually it dosen't matter
+- 😄 Pronouns: actually it doesn't matter
 - ⚡ Fun fact: there is no _fun_ fact.
 
 <!---
