@@ -1,6 +1,8 @@
 ## STM32CubeIDE 1.17.0
 
 ### Fedora 41 x86_64
+
+#### Debug
 > [!CAUTION]
 > Problem:
 > <div><pre>
@@ -86,4 +88,13 @@
 > Complete!
 > </pre></div>
 >
+> ✅
+
+#### 4K screen
+
+> [!TIP]
+> add this to the env section of menu editor (shortcut)
+> ```
+> GDK_DPI_SCALE=0.5 GDK_SCALE=2
+> ```
 > ✅
