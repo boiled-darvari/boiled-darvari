@@ -98,3 +98,29 @@
 > GDK_DPI_SCALE=0.5 GDK_SCALE=2
 > ```
 > ✅
+
+#### run/build error
+> [!CAUTION]
+> Problem:
+> <div><pre>
+>  The selection cannot be launched, and there are no recent launches.
+> </pre></div>
+>
+> 😨
+
+> [!TIP]
+> Fix:
+> 
+> Step 1:
+> 
+> File -> Import:
+> 
+> ![Screenshot_20250227_090231](https://github.com/user-attachments/assets/4564de1b-ddb4-49f2-9052-caaf2fe82d78)
+>
+> step 2:
+> 
+> deselect non-STM32CubeIDE source folder:
+> ![Screenshot_20250227_090951](https://github.com/user-attachments/assets/856bedd1-29fc-4950-8053-8067c1234628)
+> 
+>
+> ✅
